@@ -34,6 +34,7 @@ const Cart = (props) => {
             <p><small> Tax + VAT: {tax} </small></p>
             <p> Total price: {grandTotal} </p>
 
+
         </div>
     );
 };
